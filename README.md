@@ -10,6 +10,7 @@ The following guides are available:
 * [Installing the Server](/Guides/InstallingServer.md)
 * [Installing Linux Agent](/Guides/InstallLin.md)
 * [Installing Windows Agent](/Guides/InstallWin.md)
+* [Installing MacOS Agent](/Guides/InstallMac.md)
 * [Installing PuppetDB](/Guides/InstallingPuppetDB.md)
 
 ![logo](/images/logo.png)
