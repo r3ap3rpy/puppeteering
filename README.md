@@ -8,5 +8,8 @@ Whats more important, it teaches you how you can actually do something with the 
 The following guides are available:
 
 * [Installing the Server](/Guides/InstallingServer.md)
+* [Installing Linux Agent](/Guides/InstallLin.md)
+* [Installing Windows Agent](/Guides/InstallWin.md)
+* [Installing PuppetDB](/Guides/InstallingPuppetDB.md)
 
 ![logo](/images/logo.png)
