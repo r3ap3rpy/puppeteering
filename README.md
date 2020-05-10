@@ -12,4 +12,6 @@ The following guides are available:
 * [Installing Windows Agent](/Guides/InstallWin.md)
 * [Installing MacOS Agent](/Guides/InstallMac.md)
 
+Check out the [course](https://www.udemy.com/open-source-puppet-with-foreman-definitive-guide) on udemy.
+
 ![logo](/images/logo.png)
